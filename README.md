@@ -14,3 +14,5 @@ In particular –
 By reducing the amount of water used in the home we can help reduce water waste
 12.4 - By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle. By reducing the amount of water used will reduce the stress on cleaning facility’s and reducing chemicals used overall. 
 
+Wiring Diagram
+![image](https://github.com/Gavwalsh15/Year-2-IoT-Project/assets/114908190/6aa15ead-08ae-42ea-b731-6efa68385df6)
